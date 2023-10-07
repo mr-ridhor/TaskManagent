@@ -1,0 +1,8 @@
+flask
+python-dotenv
+psycopg2-binary
+flask-SQLAlchemy
+flask_jwt_extended
+passlib
+Werkzeug
+flask_cors
